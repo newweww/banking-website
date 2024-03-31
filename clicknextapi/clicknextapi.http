@@ -1,0 +1,6 @@
+@clicknextapi_HostAddress = http://localhost:5034
+
+GET {{clicknextapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
